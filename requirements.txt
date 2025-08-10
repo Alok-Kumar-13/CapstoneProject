@@ -1,6 +1,5 @@
-Flask
-gunicorn
-requests
+numpy
 pandas
+pickle
 mlflow
-scikit-learn==1.7.0
+os
