@@ -1,5 +1,3 @@
 numpy
 pandas
-pickle
-mlflow
-os
+mlflow==3.1.4
