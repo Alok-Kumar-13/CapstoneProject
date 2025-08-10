@@ -1,0 +1,6 @@
+Flask
+gunicorn
+requests
+pandas
+mlflow
+scikit-learn==1.7.0
